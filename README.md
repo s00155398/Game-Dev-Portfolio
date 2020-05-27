@@ -1,7 +1,7 @@
 # Gerard Connors Portfolio
 
 ## Introduction
-Hi my name is Gerard Connor, I'm 23 and from Ireland. I'm an aspiring Game/Level Designer. I have acquired a bachelors degree in Computing in Games Design from IT Sligo. This is my portfolio of work I have done and will be doing. Take a look and see what you think!
+Hi my name is Gerard Connor,  I'm an aspiring Game/Level Designer from Ireland. I have acquired a bachelors degree in Computing in Games Design from IT Sligo. This is my portfolio of work I have done and will be doing. Take a look and see what you think!
 
 ## Projects
 
