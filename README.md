@@ -13,3 +13,6 @@ A project where I created a small racing / time attack game check it out here : 
 
 ### Roll to Hit Combat System
 A project where I am recreating RPG style combat, Check it out here : [RTH_CombatSystem](https://s00155398.github.io/RTH_CombatSystem/)
+
+### WH40K
+A WIP project where I am creating a Third-Person Shooter set in the Warhammer 40k Sci-Fi Franchise in Unreal Engine 4 : [RTH_CombatSystem](https://s00155398.github.io/WH40K/)
