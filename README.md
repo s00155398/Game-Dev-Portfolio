@@ -9,7 +9,7 @@ Hi my name is Gerard Connor,  I'm an aspiring Game/Level Designer from Ireland. 
 A WIP project where I am creating a Third-Person Shooter set in the Warhammer 40k Sci-Fi Franchise in Unreal Engine 4 : [WH40K](https://s00155398.github.io/WH40K/)
 
 ### Roll to Hit Combat System
-A project where I am recreating RPG style combat, Check it out here : [RTH_CombatSystem](https://s00155398.github.io/RTH_CombatSystem/)
+A project where I am recreating Isometric RPG style combat, Check it out here : [RTH_CombatSystem](https://s00155398.github.io/RTH_CombatSystem/)
 
 ### Speed Racer
 A project founded on my nostalgia for the Racing Mini game found within the Knights of the Old Republic series : [SpeedRacing](https://s00155398.github.io/SpeedRacing/)
