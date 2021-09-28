@@ -5,8 +5,11 @@ Hi my name is Gerard Connor,  I'm an aspiring Game/Level Designer from Ireland. 
 
 ## Projects
 
+### FPC
+A project created within UE4 featuring a first person shooter style game. [FPC](https://s00155398.github.io/FPC/)
+
 ### WH40K
-A WIP project where I am creating a Third-Person Shooter set in the Warhammer 40k Sci-Fi Franchise in Unreal Engine 4 : [WH40K](https://s00155398.github.io/WH40K/)
+A project where I am creating a Third-Person Shooter set in the Warhammer 40k Sci-Fi Franchise in Unreal Engine 4 : [WH40K](https://s00155398.github.io/WH40K/)
 
 ### Roll to Hit Combat System
 A project where I am recreating Isometric RPG style combat, Check it out here : [RTH_CombatSystem](https://s00155398.github.io/RTH_CombatSystem/)
